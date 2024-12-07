@@ -1,7 +1,18 @@
-<h1 style="text-align:center">Welcome to My GitHub Repository 👋</h1> 
+<h1 align="center">Welcome to My GitHub Repository 👋</h1>
 
+![Project Logo](https://example.com/logo.png)
 
 ## 🖥️ Sections
+
+### Programming Languages
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+</div>
 
 ### Frontend
 <div>
@@ -24,6 +35,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/>
 </div>
 
 ## 💬 About the Project
