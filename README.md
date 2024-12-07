@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to My GitHub Repository 👋</h1>
 
-![Project Logo](https://avatars.githubusercontent.com/u/124193737?v=4)
 
 ## 🖥️ Sections
 
