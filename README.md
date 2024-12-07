@@ -37,7 +37,7 @@
 </div>
 
 ## 💬 About the Project
-[Write a brief description of your project and what it offers.]
+[]
 
 ## 📂 Other Projects
 - [Project 1](https://github.com/your-repo1): A short description.
