@@ -1,6 +1,5 @@
-# Welcome to My GitHub Repository 👋
+<h1 style="text-align:center">Welcome to My GitHub Repository 👋</h1> 
 
-![Project Logo](https://example.com/logo.png)
 
 ## 🖥️ Sections
 
@@ -10,13 +9,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://materializecss.com/images/favicon/apple-touch-icon-152x152.png" alt="Materialize" width="50" height="50"/>
 </div>
 
 ### Backend
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
 </div>
 
 ### Databases
@@ -33,5 +34,3 @@
 - [Project 2](https://github.com/your-repo2): A short description.
 
 ---
-
-*Built with ❤️ using Markdown!*
