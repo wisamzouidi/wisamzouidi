@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="max-width: 100%; height: auto;" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" style="max-width: 100%; height: auto;" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" style="max-width: 100%; height: auto;" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" style="max-width: 100%; height: auto;" />
 </p>
 
 <p><strong>🌐 Web Technologies:</strong></p>
