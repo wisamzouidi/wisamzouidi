@@ -37,12 +37,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="max-width: 100%; height: auto;" />
 </p>
 
-<p><strong>⚙️ Tools:</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" style="max-width: 100%; height: auto;" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" style="max-width: 100%; height: auto;" />
-</p>
-
 <p><strong>🔧 IDEs:</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="max-width: 100%; height: auto;" />
