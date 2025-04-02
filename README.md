@@ -29,6 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%; height: auto;" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%; height: auto;" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%; height: auto;" />
 </p>
 
 <p><strong>♾️ DevOps:</strong></p>
